@@ -5,6 +5,9 @@
 layout: home
 ---
 
-あいうえお
-- [essay](/essay.md)
-- [notebooks](/notebooks.md)
+😁
+
+## Feature Engineering
+- encoding
+	- [categorical data encoding](/notebooks/category.html)
+	- [numerical data encoding](/notebooks/numeric.html)
