@@ -5,6 +5,5 @@
 layout: home
 ---
 
-あいうえお
 - [essay](/essay.md)
 - [notebooks](/notebooks.md)
