@@ -8,7 +8,8 @@ permalink: /todo/
 - DICE/IDAP/scoringテーブルデータ取得用ライブラリ
 - GNN Explainerの可視化Webアプリ
 	- サンプルデータで現状のRGCNで学習
-	- GNN Explainer算出
+	- GNN Explainer算出 -> heteroは非対応？一旦論文読んでみる
+	- とりあえずembeddingから特定のデータ種別に応じて距離計算する？
 	- Webアプリとして可視化
 - 施策効果の可視化Webアプリ
 	- 予兆効果
