@@ -34,6 +34,7 @@ permalink: /todo/
 	- GNNによるモデル改善
 		- 大規模グラフを処理できる分散処理環境構築
 			- ogbn-magでのGraph-SAGEでのstandalone実行
+			- ドコモデータでのGraph-SAGEでのstandalone実行
 			- ogbn-magでのGraph-SAGEでの分散処理実行
 			- ドコモデータでの分散処理実行
 	- sense-scoringアップデート(定期)
