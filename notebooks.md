@@ -9,8 +9,8 @@ layout: home
 
 ## Feature Engineering
 - encoding
-	- [categorical data encoding](./notebooks/category.html)
-	- [numerical data encoding](./notebooks/numeric.html)
+	- [categorical data encoding](./notebooks/feature_engineering/category.html)
+	- [numerical data encoding](./notebooks/feature_engineering/numeric.html)
 - reduction
 	- [dimensionality reduction](./notebooks/dimensionality_reduction/all.html)
 
