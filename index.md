@@ -7,7 +7,9 @@ layout: home
 
 - [essay](/essay.md)
 
-### Projects 
+### Projects
+
 - [notebooks](/notebooks.md)
 - [anzan](https://anzan-seven.vercel.app)
 - [bandit simulation](https://5s39uujxa0.execute-api.ap-northeast-1.amazonaws.com)
+- [word flash](https://6eu88dbkm9.execute-api.ap-northeast-1.amazonaws.com/)
